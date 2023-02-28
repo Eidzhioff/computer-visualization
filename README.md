@@ -1,2 +1,2 @@
 # computer-visualization
-psd for the poor
+Если зачет "глазами", не прошел проверку.
